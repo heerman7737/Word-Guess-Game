@@ -1,7 +1,8 @@
 body {
     background-image: url("https://wallimpex.com/data/out/455/imperial-guard-wallpaper-8247870.jpg");
     background-color: #cccccc;
-    background-size: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
     
    }
   img{
