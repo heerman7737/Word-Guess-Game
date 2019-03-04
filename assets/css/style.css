@@ -1,0 +1,27 @@
+body {
+    background-image: url("https://wallimpex.com/data/out/455/imperial-guard-wallpaper-8247870.jpg");
+    background-color: #cccccc;
+    background-size: 100%;
+    
+   }
+  img{
+    width:200px;
+    height: 200px;
+    
+  }
+  .center{
+    margin: 6px auto auto auto;
+    height: 450px;
+    width: 600px;
+    border: 3px solid red;
+    padding: 10px;
+    background-color:black;
+  }
+ h1{
+  font-family: 'Black Ops One', cursive;
+
+ }
+ p{
+  font-family: 'Black Ops One', cursive;
+ }
+ 
